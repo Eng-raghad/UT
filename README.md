@@ -3,3 +3,4 @@ new line.
 test key
 blahblah
 added merged branch
+from base
